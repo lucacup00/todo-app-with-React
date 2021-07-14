@@ -1,0 +1,9 @@
+.Div-item{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    border:2px solid blue;
+}
+.item-list{
+    list-style: none;
+}
